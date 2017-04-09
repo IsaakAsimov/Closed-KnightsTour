@@ -6,11 +6,11 @@
 
 **in less than 10 second**
 
-__****But, if your computer si a beast,
+__****But, if your computer is a beast,
 then you should try with N > 20.****__
 
 ## Algorithm
-__***This use a mix between Warnsdorff's rule and backtracking***__
+__***This is a mix between Warnsdorff's rule and backtracking***__
 
 #### Exapmle:
 ```
