@@ -1,18 +1,11 @@
 # Closed Knight's Tour
 
-**works with NxN Boards:**
-
-*if N is even and 5 < N < 19*
-
-**in less than 10 second**
-
-__****But, if your computer is a beast,
-then you should try with N > 20.****__
+This application works with NxN size boards, although the efective range (meaning, it needs less than 10 seconds) is between 5 and 19, but if you have a beastly computer, by all means try a board size greater than 20. 
 
 ## Algorithm
-__***This is a mix between Warnsdorff's rule and backtracking***__
+__***This is a mix between [Warnsdorff's rule](https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorf.27s_rule) and backtracking***__
 
-#### Exapmle:
+#### Example:
 ```
 (cute-board 6)
 =>
