@@ -1,6 +1,6 @@
 # Closed Knight's Tour
 
-This application works with NxN size boards, although the efective range (meaning, it needs less than 10 seconds) is a even number between 5 and 19, but if you have a beastly computer, by all means try a board size greater than 20. 
+This application works with NxN size boards, although the efective range (meaning, it needs less than 10 seconds) is an even number between 4 and 18 inclusive, but if you have a beastly computer, by all means try a board size greater than 20. 
 
 ## Algorithm
 __***This is a mix between [Warnsdorff's rule](https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorf.27s_rule) and [backtracking](https://en.wikipedia.org/wiki/Backtracking)***__
